@@ -8,3 +8,7 @@ PDF下载：
 英文名：https://github.com/goweii/TestUrl/raw/master/AndroidKeyMd5.pdf
 
 中文名：https://github.com/goweii/TestUrl/raw/master/%E5%AE%89%E5%8D%93%E7%AD%BE%E5%90%8DMD5%E6%96%87%E6%A1%A3.pdf
+
+视频：
+
+竖版：https://github.com/goweii/TestUrl/blob/master/video_minions_v_404_720.mp4
